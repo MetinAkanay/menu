@@ -1,7 +1,7 @@
 import React from 'react'
-import AboutSection from './AboutSection'
-import MenuSection from './MenuSection'
-import ContactSection from './ContactSection'
+import AboutSection from './Components/AboutSection'
+import MenuSection from './Components/MenuSection'
+import ContactSection from './Components/ContactSection'
 
 function PageContent() {
   return (
